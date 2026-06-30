@@ -1,0 +1,9 @@
+.venv312/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+data/conversations.db
+.idea/
