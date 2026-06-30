@@ -4,6 +4,7 @@ venv/
 __pycache__/
 *.pyc
 .env
+!.env.example
 chroma_db/
 data/conversations.db
 .idea/
