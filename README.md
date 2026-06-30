@@ -2,7 +2,7 @@
 
 A fully-routed multi-agent system built with **LangGraph**, designed for an electronics retail company. The system routes each user message to one of five specialised agent nodes — weather, web search, RAG retrieval, Text-to-SQL, or general LLM — and maintains conversation memory that persists across application restarts.
 
-Built as Homework 3 for the "AI Hands-On" course (NTUA MSc, 2025–2026).
+Built as Final Assignment for the "AI Hands-On" course.
 
 ![Graph Visualization](results/graph.png)
 
@@ -49,7 +49,7 @@ The compiled LangGraph graph with all nodes and conditional edges:
 ### Requirements
 
 - Python 3.12
-- A [Groq API key](https://console.groq.com) (free, no credit card required)
+- A [Groq API key](https://console.groq.com) (free)
 - A [Tavily API key](https://tavily.com) (free tier available)
 
 ### Installation
