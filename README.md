@@ -4,6 +4,8 @@ A fully-routed multi-agent system built with **LangGraph**, designed for an elec
 
 Built as Final Assignment for the "AI Hands-On" course.
 
+Grading note: I implemented all five features. Features 4 & 5 are submitted for grading. The rest (and one extra task - streamlit) are submitted as bonus features. 
+
 ![Graph Visualization](results/graph.png)
 
 ---
